@@ -11,7 +11,7 @@ Saya menggunakan atribut private supaya data di class Aset aman tidak bisa diuba
 -  Ketika menjalankan program ,output yang muncul diterminal tidak sesuai dengan yang saya harapkan dan Ketika diuji di ps1 terjadi error saya mengatasinnya dengan mvn -f core/pom.xml -Dtest=Minggu02AsetTest test
 
 ## Penggunaan AI
-- Alat yang dipakai:ChatGPT 
+- Alat yang dipaka:ChatGPT 
 - Bagian yang dibantu AI: Menjelaskan tugas minggu ke2,melengkapi TODO dan memahami penyebab eror pada saat menjalankan pengujian 
 - Prompt utama: Jelaskan tugas minggu ke dua dan lengkapi kode pada bagian TODO sesuai dengan intruksi minggu ke dua.
 - Yang saya ubah atau tolak dari saran AI, dan alasannya: Saya menyesuaikan kode agar bagian yang dikerjakan hanya minggu ke dua dan tetap mempertahankan method minggu ke 3,4,5. 
